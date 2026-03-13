@@ -46,10 +46,11 @@ In compliance with the **BorNEO HackWknd 2026** regulations, we disclose that Ge
 ## 📄 Project Deliverables
 * **Project Report:** [Click here to view the PDF Report](./LinguaSign_Project_Report.pdf)
 * **Demo Video:** [Watch the 8-Minute Walkthrough on YouTube](https://www.youtube.com/watch?v=Rf8-n1rsZ8c)
-
+* **Live Website:** [Visit the LinguaSign AI Landing Page](https://hekwknd.vixdev.cloud/demo/)
 ---
 
 ## 🏗️ Technical Breakdown for Judges
 Our solution utilizes an **LSTM (Long Short-Term Memory)** architecture because sign language isn't just about static shapes—it's about the motion over time. By capturing 30 frames per sign, our model learns the temporal "signature" of each word, leading to much higher accuracy than traditional image classification.
+
 
 
