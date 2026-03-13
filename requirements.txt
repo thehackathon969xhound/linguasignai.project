@@ -1,0 +1,6 @@
+opencv-python
+numpy<2.0
+mediapipe==0.10.14
+tensorflow==2.16.1
+tf-keras
+protobuf<5,>=4.25.3
